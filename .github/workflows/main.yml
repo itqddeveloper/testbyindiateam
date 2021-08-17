@@ -17,4 +17,4 @@ jobs:
         with:
           server: ftp.109.108.140.33
           username: gititqftp
-        password: ${{ secrets.prod_ftp_password }}
+        password: ${{ secrets.PROD_FTP_PASSWORD }}
