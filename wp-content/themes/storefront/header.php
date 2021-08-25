@@ -62,6 +62,6 @@
 
 	<div id="content" class="site-content" tabindex="-1">
 		<div class="col-full">
-			<div>Mukesh work</div>
+			<div>Mukesh work fine</div>
 		<?php
 		do_action( 'storefront_content_top' );
